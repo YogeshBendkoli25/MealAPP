@@ -12,13 +12,12 @@ Meal App is a beautifully crafted Flutter application that allows users to explo
 - Riverpod: Used for state management to manage UI and data interaction.
 
 # ScreenShot
-![1](https://github.com/user-attachments/assets/23216132-15d9-4d33-9afa-ea660cdea1ca)
-![2](https://github.com/user-attachments/assets/89ec1fcf-6271-48d2-acfc-fba195cb09ec)
-![3](https://github.com/user-attachments/assets/0e405f8e-32c5-4e9c-8ba9-6a9ee5bebc03)
-![4](https://github.com/user-attachments/assets/33da61c3-f8c8-498d-b55e-97cd56bce55a)
-![5](https://github.com/user-attachments/assets/d53d8fc8-5218-490c-8353-7c3f7287e070)
-![6](https://github.com/user-attachments/assets/037affa5-d592-4c85-be5f-0bcb26539224)
-![7](https://github.com/user-attachments/assets/9a7bf6b5-5a9b-4e09-95fb-3daf7ee112e2)
+![Home page   Category](https://github.com/user-attachments/assets/24ae3d13-5a20-4997-bdaf-dd185be07309)
+![Category Punjabi   South Indian](https://github.com/user-attachments/assets/79a8af93-a711-432b-8b01-891ab932fcc1)
+![Snacks inside Panipuri](https://github.com/user-attachments/assets/67632954-6cc7-48af-9f42-309de2c301a5)
+![Ice Cream and Details](https://github.com/user-attachments/assets/40ea106c-491b-4195-ab5b-7d532c65935e)
+![Favorites screen](https://github.com/user-attachments/assets/c443a9c5-7de6-4896-8051-75a441d87c07)
+![Drawer and Filters](https://github.com/user-attachments/assets/d7300e88-cce6-4512-af3a-5714efd4ec6a)
 
 # Installation
 - Clone the repository: git clone https://github.com/yourusername/mealapp.git
